@@ -1,6 +1,7 @@
 {
   "type": "FeatureCollection",
   "nome_ig": "Maracaju",
+  "municipios_lista": "maracaju",
   "features": [
     {
       "type": "Feature",
