@@ -1,6 +1,7 @@
 {
   "type": "FeatureCollection",
   "nome_ig": "Região das Lagoas Mundaú-Manguaba",
+  "municipios_lista": "coqueiro seco;maceio;marechal deodoro;pilar;santa luzia do norte;satuba",
   "features": [
     {
       "type": "Feature",
